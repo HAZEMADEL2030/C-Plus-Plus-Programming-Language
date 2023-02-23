@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4-Ciphering and Deciphering", "4-Ciphering and Deciphering.vcxproj", "{D6416ED4-DB10-4579-937E-5C0A50C3C990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6416ED4-DB10-4579-937E-5C0A50C3C990}.Debug|x64.ActiveCfg = Debug|x64
+		{D6416ED4-DB10-4579-937E-5C0A50C3C990}.Debug|x64.Build.0 = Debug|x64
+		{D6416ED4-DB10-4579-937E-5C0A50C3C990}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6416ED4-DB10-4579-937E-5C0A50C3C990}.Debug|x86.Build.0 = Debug|Win32
+		{D6416ED4-DB10-4579-937E-5C0A50C3C990}.Release|x64.ActiveCfg = Release|x64
+		{D6416ED4-DB10-4579-937E-5C0A50C3C990}.Release|x64.Build.0 = Release|x64
+		{D6416ED4-DB10-4579-937E-5C0A50C3C990}.Release|x86.ActiveCfg = Release|Win32
+		{D6416ED4-DB10-4579-937E-5C0A50C3C990}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B9D5C20-1C94-4668-BCC6-8B69CBC74CE4}
+	EndGlobalSection
+EndGlobal
